@@ -1,7 +1,7 @@
 # Rejection Whisperer 🚀 | Turn "No" into "Next"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/rejection-whisperer/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mdabdulrazzaq/rejection-whisperer/pulls)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20%F0%9F%9B%A0-red)
 
 > **AI-powered emotional resilience for your inbox.**  
@@ -37,4 +37,4 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/rejection-whisperer.git
+   git clone https://github.com/mdabdulrazzaq/rejection-whisperer.git
